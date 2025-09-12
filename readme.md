@@ -6,7 +6,7 @@
 ## 1. 绪论
 
 * 统计学的定义与作用
-* 总体与样本 ([概念]()）
+* 总体与样本 ([概念](https://github.com/pengsihua2023/statistics/blob/main/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E9%97%AE%E7%AD%94/%E6%80%BB%E4%BD%93%E5%92%8C%E6%A0%B7%E6%9C%AC%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)）
 * 数据类型与测量尺度（定类、定序、定距、定比）
 * 抽样方法（随机抽样、分层抽样、整群抽样等）
 
