@@ -23,7 +23,7 @@
 
 ## 3. 概率论基础
 
-* 随机事件与概率 ([习题解答](https://github.com/pengsihua2023/statistics/blob/main/%E4%B9%A0%E9%A2%98%E9%9B%86/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A6%82%E7%8E%87%3A%20%E4%B9%A0%E9%A2%98%E5%92%8C%E8%A7%A3%E7%AD%94.md)）
+* [随机事件与概率](https://github.com/pengsihua2023/statistics/blob/main/03.%20%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A6%82%E7%8E%87.md) ([习题解答](https://github.com/pengsihua2023/statistics/blob/main/%E4%B9%A0%E9%A2%98%E9%9B%86/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A6%82%E7%8E%87%3A%20%E4%B9%A0%E9%A2%98%E5%92%8C%E8%A7%A3%E7%AD%94.md)）
 * 条件概率与全概率公式、贝叶斯公式 ([习题解答](https://github.com/pengsihua2023/statistics/blob/main/%E4%B9%A0%E9%A2%98%E9%9B%86/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F%E3%80%81%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F%EF%BC%9A%E4%B9%A0%E9%A2%98%E5%92%8C%E8%A7%A3%E7%AD%94.md))
 * 随机变量及其分布（离散与连续分布）
 * 常见概率分布：二项分布、泊松分布、正态分布、t分布、卡方分布、F分布
