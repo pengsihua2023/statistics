@@ -1,9 +1,9 @@
 
 
 插值公式：
-[
+$$
 M = L + \left(\frac{\frac{N}{2} - F}{f}\right) \times h
-]
+$$
 其中：
 
 * (L)：中位数组下限 = 4000
