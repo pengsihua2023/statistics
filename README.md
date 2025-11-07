@@ -1,7 +1,8 @@
 ## 有关统计分布的临界值表
 - Critical Values of the Student's t Distribution  
   https://www.itl.nist.gov/div898/handbook/eda/section3/eda3672.htm
-  
+- Upper Critical Values of the F Distribution  
+  https://www.itl.nist.gov/div898/handbook/eda/section3/eda3673.htm  
 
 
 
