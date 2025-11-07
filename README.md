@@ -3,7 +3,11 @@
   https://www.itl.nist.gov/div898/handbook/eda/section3/eda3672.htm
 - Upper Critical Values of the F Distribution  
   https://www.itl.nist.gov/div898/handbook/eda/section3/eda3673.htm  
-
+- Upper-tail critical values of chi-square distribution with ν degrees of freedom
+  https://www.itl.nist.gov/div898/handbook/eda/section3/eda3674.htm
+- Lower-tail critical values of chi-square distribution with ν degrees of freedom  
+  https://www.itl.nist.gov/div898/handbook/eda/section3/eda3674.htm
+  
 
 
 
