@@ -28,7 +28,7 @@ $$
 
 记号：
 
-* (Y_{ijk})：A 的第 i 水平、B 的第 j 水平、第 k 个重复的观测
+* $(Y_{ijk})$：A 的第 i 水平、B 的第 j 水平、第 k 个重复的观测
 * (\bar{Y}_{ij\cdot})：A=i, B=j 组合的平均数
 * (\bar{Y}_{i\cdot\cdot})：A=i 的组均值
 * (\bar{Y}_{\cdot j\cdot})：B=j 的组均值
